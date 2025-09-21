@@ -1,2 +1,2 @@
 # sy666
-my reposi
+my repository
